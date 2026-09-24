@@ -22,7 +22,7 @@ Eco Wardrobe — Python CLI application focused on sustainability and conscious 
 Timeless Grooves — Responsive web project using HTML5 and CSS3.
 Tennis Club Ace — Front-end project developed with HTML5, CSS3, and Figma.
 
-I'm currently focused on expanding my knowledge in Information Security and developing practical technical skills through academic and personal projects.## Hi there 👋
+I'm currently focused on expanding my knowledge in Information Security and developing practical technical skills through academic and personal projects.
 
 <!--
 **Rafaela-scc/Rafaela-scc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
